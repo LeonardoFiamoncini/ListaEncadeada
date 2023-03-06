@@ -1,2 +1,2 @@
 # ListaEncadeada
-Implementação de Lista encadeada, tipo de estrutura de dados, na Linguagem C.
+Implementação da estrutura de Lista encadeada com suas principais operações. Código desenvolvido na Linguagem de Programação C para a disciplina de Estruturas de Dados I, cursada no 1º semestre de 2022.
